@@ -20,6 +20,10 @@ p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+a {
+    color: cyan;
+}
+
 section {
     background-color: #2c2b2b;
     /* height: 100%; */
