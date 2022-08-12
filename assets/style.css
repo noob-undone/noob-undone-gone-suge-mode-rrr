@@ -28,7 +28,11 @@ section {
     margin: auto;
 }
 
-div.divie-list {
+div#Videos {
+    max-width: 200%;
+}
+
+div#divie-list {
     text-align: center;
 }
 
