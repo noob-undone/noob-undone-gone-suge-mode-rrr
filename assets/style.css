@@ -28,6 +28,10 @@ section {
     margin: auto;
 }
 
+section#Contact-Info {
+    width: 750px;
+}
+
 div#Videos {
     max-width: 200%;
 }
