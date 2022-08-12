@@ -1,0 +1,43 @@
+body {
+    background-color: #333333;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div {
+    background-color: #2c2b2b;
+    /* height: 100%; */
+    width: fit-content;
+    max-width: 570px;
+    margin: auto;
+}
+
+div.divie-list {
+    text-align: center;
+}
+
+ul#lalist {
+    display: inline-block;
+    text-align: left;
+    color: aliceblue;
+}
+
+img#flag {
+    width: 18px;
+}
